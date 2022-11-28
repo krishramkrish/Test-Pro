@@ -1,0 +1,15 @@
+@use "./_colors.scss" as co;
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  display: flex;
+  background-color: yellow;
+}
+
+
+/*# sourceMappingURL=style.css.map */
